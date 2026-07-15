@@ -521,7 +521,7 @@ def main():
         layout="centered",
     )
 
-    st.title("Conversione ordine Excel in formato lineare")
+    st.title("Conversione ordine Our Legacy in formato lineare")
     st.caption(f"Versione app: {APP_VERSION}")
 
     st.write(
