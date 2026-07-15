@@ -8,7 +8,7 @@ from openpyxl import Workbook, load_workbook
 from openpyxl.styles import Alignment, Font, PatternFill
 
 
-APP_VERSION = "2026-07-15_V6_THREE_BUTTONS"
+APP_VERSION = "2026-07-15_V6"
 
 OUTPUT_COLUMNS = [
     "SKU",
