@@ -527,7 +527,7 @@ def main():
     st.write(
         "L'app legge la scala taglie sopra la tabella, converte O/S in UNICA "
         "e prepara tre file separati: MEN, WOMEN e UNISEX."
-        "File UNISEX esportato da verificare alla fine."
+        " File UNISEX esportato da verificare alla fine."
     )
 
     uploaded_file = st.file_uploader(
