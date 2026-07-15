@@ -525,7 +525,6 @@ def main():
     st.caption(f"Versione app: {APP_VERSION}")
 
     st.write(
-        "Carica l'Excel originale della commessa. "
         "L'app legge la scala taglie sopra la tabella, converte O/S in UNICA "
         "e prepara tre file separati: MEN, WOMEN e UNISEX."
     )
