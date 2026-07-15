@@ -563,7 +563,7 @@ def main():
         download_columns = {
             "MEN": download_col_1,
             "WOMEN": download_col_2,
-            "UNISEX - DA VERIFICARE": download_col_3,
+            "UNISEX": download_col_3,
         }
 
         for label, column in download_columns.items():
