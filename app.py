@@ -375,4 +375,3 @@ if uploaded_file is not None:
 
     except Exception as exc:
         st.error(f"Impossibile convertire il file: {exc}")
-
