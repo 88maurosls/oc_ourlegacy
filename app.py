@@ -425,7 +425,7 @@ def split_by_category(records):
     split = {
         "MEN": [],
         "WOMEN": [],
-        "UNISEX": [],
+        "UNISEX - DA VERIFICARE": [],
     }
 
     skipped = []
